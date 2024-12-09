@@ -1,0 +1,5 @@
+As part of logistics dashboard, the following needs to be created
+
+Create new request : Once a new request is created, its trasfered to past and ongoing request.
+View past and ongoing request: User should be able to view past and ongoing logistics requirements once they are created.
+Ongoing and past request should be further clickable, so that user should be able to view specific shipment and packaging request inside a logistics request.
